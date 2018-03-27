@@ -1,0 +1,6 @@
+[submodule "themes/pelican-blue"]
+	path = themes/pelican-blue
+	url = git@github.com:Parbhat/pelican-blue.git
+[submodule "output"]
+	path = output
+	url = git@github.com:nocode99/nocode99.github.io.git
